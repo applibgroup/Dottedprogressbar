@@ -1,0 +1,10 @@
+[
+    {
+        "Name": " Dotted Progress Bar ",
+        "License": " Apache License ",
+        "License File": " License information is provided in README ",
+        "Version Number": " v1.0 ",
+        "Upstream URL": " https://github.com/igortrncic/dotted-progress-bar ",
+        "Description": "  Dotted progress bar. Use custom drawable or color to configure dots. "
+    }
+]

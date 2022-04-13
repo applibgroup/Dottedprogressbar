@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    xmlns:app="http://schemas.huawei.com/res/ohos/app"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical">
+
+    <com.trncic.library.DottedProgressBar
+        ohos:id="$+id:progress"
+        ohos:width="match_parent"
+        ohos:height="match_parent"
+        ohos:padding="30vp"
+        app:activeDot="$media:active_dot"
+        app:dotSize="29vp"
+        app:inactiveDot="$media:inactive_dot"
+        app:jumpingSpeed="670"
+        app:spacing="15vp" />
+
+</DirectionalLayout>
